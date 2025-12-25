@@ -11,6 +11,7 @@ The rapid spread of misinformation on digital platforms poses serious social and
 
 ##  Dataset
 - Source: Public Fake and Real News dataset (Kaggle)
+-     https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?resource=download
 - Data Type: News article text
 - Classes:
   - 0 → Fake News
